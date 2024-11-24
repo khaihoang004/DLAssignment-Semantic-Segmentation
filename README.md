@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Please visit this following Google Drive link to download the model file.
 
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1oleJJKvTGvv7o8DWnmhIA8vl54DLvMhV/view?usp=drive_link" target="_blank">Download Checkpoint</a>
+&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1qpQ9dF3iLZHkbIqhH_rGnmUm573m6Tml/view?usp=sharing" target="_blank">Download Checkpoint</a>
 
 &nbsp;&nbsp;&nbsp;&nbsp; After downloading, place the checkpoint file in the same directory as the infer.py script.
 
